@@ -1,0 +1,156 @@
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\lyc002\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\lyc002\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\lyc002\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\lyc002\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\lyc002\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\lyc002\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\lyc002\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\lyc002\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\lyc002\2018 Spring南臺多媒體安全\Ex01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\lyc002\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\lyc002\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\lyc002\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\lyc002\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\lyc002\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\lyc002\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\lyc002\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\lyc002\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\lyc002\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\lyc002\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.dll
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex02\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\0STUST_Course\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\0STUST_Course\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\0STUST_Course\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\0STUST_Course\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\0STUST_Course\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\0STUST_Course\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\0STUST_Course\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\0STUST_Course\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\0STUST_Course\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\0STUST_Course\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lyc002\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lyc002\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lyc002\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lyc002\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\lyc002\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\lyc002\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lyc002\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\lyc002\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lyc002\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lyc002\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.dll
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\0STUST_Courses\2018 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.dll
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式\WindowsFormsApp1\bin\Debug\System.Net.Http.dll
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式20190325b\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式20190325b\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式20190325b\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式20190325b\WindowsFormsApp1\bin\Debug\System.Net.Http.dll
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式20190325b\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式20190325b\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式20190325b\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式20190325b\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式20190325b\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式20190325b\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\0STUST_Courses\2019 Spring南臺多媒體安全\Ex04\DWT程式20190325b\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\lyc002\2020 Spring南臺多媒體安全\Ex05\DWT程式20190325b\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\lyc002\2020 Spring南臺多媒體安全\Ex05\DWT程式20190325b\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\lyc002\2020 Spring南臺多媒體安全\Ex05\DWT程式20190325b\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20190325b\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20190325b\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20190325b\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20190325b\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20190325b\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20190325b\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20190325b\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20190325b\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20190325b\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420_Simple\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420_Simple\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420_Simple\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420_Simple\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420_Simple\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420_Simple\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420_Simple\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420_Simple\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420_Simple\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\lyc002\2020 Spring南臺多媒體安全\Ex06\DWT程式20200420_Simple\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\CSIE\Downloads\DWT程式20200420_simple\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\CSIE\Downloads\DWT程式20200420_simple\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\CSIE\Downloads\DWT程式20200420_simple\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\CSIE\Downloads\DWT程式20200420_simple\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\CSIE\Downloads\DWT程式20200420_simple\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\CSIE\Downloads\DWT程式20200420_simple\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\CSIE\Downloads\DWT程式20200420_simple\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\CSIE\Downloads\DWT程式20200420_simple\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\CSIE\Downloads\DWT程式20200420_simple\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\CSIE\Downloads\DWT程式20200420_simple\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Work\CSIE_Course\Security-of-multimedia\5A7G0009_HW06\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Work\CSIE_Course\Security-of-multimedia\5A7G0009_HW06\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Work\CSIE_Course\Security-of-multimedia\5A7G0009_HW06\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Work\CSIE_Course\Security-of-multimedia\5A7G0009_HW06\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Work\CSIE_Course\Security-of-multimedia\5A7G0009_HW06\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Work\CSIE_Course\Security-of-multimedia\5A7G0009_HW06\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Work\CSIE_Course\Security-of-multimedia\5A7G0009_HW06\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Work\CSIE_Course\Security-of-multimedia\5A7G0009_HW06\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Work\CSIE_Course\Security-of-multimedia\5A7G0009_HW06\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Work\CSIE_Course\Security-of-multimedia\5A7G0009_HW06\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
