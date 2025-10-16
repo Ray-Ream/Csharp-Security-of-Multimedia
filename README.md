@@ -37,3 +37,5 @@ https://github.com/Ray-Ream/Csharp-Security-of-Multimedia.git
 ### Least Significant Bit (LSB) Embedding  
 The LSB method hides secret information within the least significant bits of image pixels.  
 It is a simple yet effective approach for steganography — embedding data invisibly inside multimedia content.  
+- Initial UI interface:
+![image](https://github.com/Ray-Ream/Csharp-Security-of-Multimedia/blob/main/images/LSB.jpg)
