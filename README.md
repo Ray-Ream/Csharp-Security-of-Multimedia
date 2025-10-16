@@ -39,3 +39,9 @@ The LSB method hides secret information within the least significant bits of ima
 It is a simple yet effective approach for steganography — embedding data invisibly inside multimedia content.  
 - Initial UI interface:
 ![image](https://github.com/Ray-Ream/Csharp-Security-of-Multimedia/blob/main/images/LSB.jpg)
+
+- Hide information in images using LSB:
+![image](https://github.com/Ray-Ream/Csharp-Security-of-Multimedia/blob/main/images/LSB-hide.jpg)
+
+- Parsing information is hidden in images through LSB:
+![image](https://github.com/Ray-Ream/Csharp-Security-of-Multimedia/blob/main/images/LSB-decode.jpg)
