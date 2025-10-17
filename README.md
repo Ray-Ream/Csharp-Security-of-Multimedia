@@ -45,3 +45,12 @@ It is a simple yet effective approach for steganography — embedding data invis
 
 - Parsing information is hidden in images through LSB:
 ![image](https://github.com/Ray-Ream/Csharp-Security-of-Multimedia/blob/main/images/LSB-decode.jpg)
+
+---
+
+### Discrete Wavelet Transform (DWT)
+- Initial UI interface
+![image](https://github.com/Ray-Ream/Csharp-Security-of-Multimedia/blob/main/images/DWT-ui.jpg)
+
+- DWT transform calculation result (1-3 level)
+![image](https://github.com/Ray-Ream/Csharp-Security-of-Multimedia/blob/main/images/DWT-processed.jpg)
