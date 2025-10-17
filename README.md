@@ -50,7 +50,7 @@ It is a simple yet effective approach for steganography — embedding data invis
 
 ### Discrete Wavelet Transform (DWT)
 - Initial UI interface
-![image](https://github.com/Ray-Ream/Csharp-Security-of-Multimedia/blob/main/images/DWT-ui.jpg)
+![image](https://github.com/Ray-Ream/Csharp-Security-of-Multimedia/blob/main/images/DWT-init.jpg)
 
 - DWT transform calculation result (1-3 level)
 ![image](https://github.com/Ray-Ream/Csharp-Security-of-Multimedia/blob/main/images/DWT-processed.jpg)
